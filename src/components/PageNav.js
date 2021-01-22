@@ -1,7 +1,7 @@
 import React from "react";
 import "./styles.css";
 import { Link } from "react-router-dom";
-const range = 1;
+const range = 2;
 
 function PageNav({ page, numPages }) {
   let renderArr = [];
