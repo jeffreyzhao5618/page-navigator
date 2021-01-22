@@ -1,0 +1,11 @@
+.page-nav-item {
+  padding: 0.8rem;
+  background-color: teal;
+  color: white;
+  text-align: center;
+  display: inline-block;
+}
+
+.page-nav-item.active {
+  background-color: lightgray;
+}
